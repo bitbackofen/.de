@@ -20,3 +20,10 @@ body {
 	bottom: 10px;
 	display: block;
 }
+
+.about {
+	margin: 60px 50px;
+	font-size: 1.5em;
+	color: #ffffff;
+	max-width: 800px;
+}
